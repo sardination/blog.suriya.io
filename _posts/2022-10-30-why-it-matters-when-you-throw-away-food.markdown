@@ -15,10 +15,10 @@ We often don't discuss food waste in concrete enough terms. Kids in the US are t
 
 
 *Sources:*
-* https://news.thin-ink.net/p/we-produce-enough-food-to-feed-15
-* https://www.weforum.org/agenda/2015/05/food-how-much-does-the-world-need/
-* https://www.usda.gov/foodwaste/faqs
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6723314/
-* https://www.rts.com/resources/guides/food-waste-america/
-* https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions
-* https://www.epa.gov/system/files/documents/2021-11/from-farm-to-kitchen-the-environmental-impacts-of-u.s.-food-waste_508-tagged.pdf
+* <https://news.thin-ink.net/p/we-produce-enough-food-to-feed-15>
+* <https://www.weforum.org/agenda/2015/05/food-how-much-does-the-world-need/>
+* <https://www.usda.gov/foodwaste/faqs>
+* <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6723314/>
+* <https://www.rts.com/resources/guides/food-waste-america/>
+* <https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions>
+* <https://www.epa.gov/system/files/documents/2021-11/from-farm-to-kitchen-the-environmental-impacts-of-u.s.-food-waste_508-tagged.pdf>
