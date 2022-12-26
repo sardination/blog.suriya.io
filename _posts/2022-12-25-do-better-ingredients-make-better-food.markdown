@@ -14,5 +14,5 @@ One thing that has changed from time to time for me is the actual ingredients I 
 In the case of the parmesan cheese, we can guess at some more straightforward reasons as to why the freshly grated, imported cheese tasted better - the aging process and lack of preservatives springing to top of mind. As for the butter or the tomatoes, the question is more complex. Why do these ingredients taste better? Could it be the nutrients in the soil that the tomatoes grow in or the grass that the cows eat? "Flavoromics" is still a growing and evolving approach to research in food science, and there are a lot of interesting questions to answer about what makes certain ingredients taste better, or if fresh and well-grown ingredients actually do taste better in blind taste tests. There is evidence that dairy products from grass-fed cows taste and smell different, for example, but not much research beyond that. It would be fascinating to know what exactly makes foods grown or developed in different ways taste better or worse. In the meantime, try making your favorite recipe using freshly-grown, organic, and well-raised alternatives to your standard ingredients and see if you can notice the difference in taste. If my experience in cooking is any indication, you'll be pleasantly surprised.
 
 *Sources:*
-* https://www.scientificamerican.com/article/why-does-food-taste-so-delicious/
-* https://www.mdpi.com/2304-8158/9/9/1188
+* <https://www.scientificamerican.com/article/why-does-food-taste-so-delicious/>
+* <https://www.mdpi.com/2304-8158/9/9/1188>
